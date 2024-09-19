@@ -1,0 +1,43 @@
+{
+    "name": "bravecore",
+    "version": "0.1.0",
+    "description": "Bravecore is an innovative library that integrates complete emotion and consciousness simulation into AI, providing multidimensional analysis and emotionally adaptive content generation. It enables deep and empathetic understanding, enhancing interactions across various contexts.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "bravecore",
+        "library",
+        "web",
+        "intelligence",
+        "ia",
+        "brainvat",
+        "personality",
+        "robotic",
+        "framework"
+    ],
+    "author": "Alejo Malia <alejomalia@gmail.com>",
+    "license": "GPL-3.0",
+
+    "homepage": "https://github.com/pigeonposse/bravecore",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/pigeonposse/bravecore"
+	},
+	"funding": {
+		"type": "individual",
+		"url": "https://pigeonposse.com/?popup=donate"
+	},
+	"bugs": {
+		"url": "https://github.com/pigeonposse/bravecore/issues",
+		"email": "dev@pigeonposse.com"
+	},
+    "dependencies": {
+        "bravecore": "file:../Bravecore_O1",
+        "express": "^4.18.2"
+    },
+    "devDependencies": {
+        "eslint": "^8.45.0"
+    }
+}
