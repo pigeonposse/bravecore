@@ -13,9 +13,9 @@
 
 ## Human mental processes in artificial intelligence
 
-**Bravecore** is an _innovative software platform_ designed to integrate emotional intelligence into artificial intelligence systems. Through a robust set of libraries and tools, Bravecore provides a _comprehensive solution for analyzing, interpreting, and responding to emotions across various contexts, from text and audio to images and video_. This platform not only enables a deep understanding of human emotions but also facilitates more natural and empathetic interactions with machines.
-
 > ⚠️ Pre-alpha version.
+
+**Bravecore** is an _innovative software platform_ designed to integrate emotional intelligence into artificial intelligence systems. Through a robust set of libraries and tools, Bravecore provides a _comprehensive solution for analyzing, interpreting, and responding to emotions across various contexts, from text and audio to images and video_. This platform not only enables a deep understanding of human emotions but also facilitates more natural and empathetic interactions with machines.
 
 ## Key Features
 
