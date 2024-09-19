@@ -1,51 +1,53 @@
 # Bravecore by _PIGEONPOSSE_
 
-[![HEADER](docs/banner.png)](https://npmjs.com/package/brainvat)
+[![HEADER](docs/banner.png)](https://npmjs.com/package/bravecore)
 
 [![Web](https://img.shields.io/badge/Web-grey?style=flat-square)](https://pigeonposse.com/)
 [![About us](https://img.shields.io/badge/About%20us-grey?style=flat-square)](https://pigeonposse.com/?popup=about)
 [![Github](https://img.shields.io/badge/Github-grey?style=flat-square)](https://github.com/pigeon-posse)
 [![Donate](https://img.shields.io/badge/Donate-pink?style=flat-square)](https://pigeonposse.com/?popup=donate)
 
-[![Size](https://img.shields.io/bundlephobia/minzip/brainvat)](https://npmjs.com/package/brainvat)
-[![License](https://img.shields.io/github/license/pigeonposse/personality?color=blue&label=License&style=flat-square)](https://npmjs.com/package/brainvat)
-[![Version](https://img.shields.io/npm/v/brainvat?color=a1b858&label&style=flat-square)](https://npmjs.com/package/brainvat)
+[![Size](https://img.shields.io/bundlephobia/minzip/bravecore)](https://npmjs.com/package/bravecore)
+[![License](https://img.shields.io/github/license/pigeonposse/personality?color=blue&label=License&style=flat-square)](https://npmjs.com/package/bravecore)
+[![Version](https://img.shields.io/npm/v/bravecore?color=a1b858&label&style=flat-square)](https://npmjs.com/package/bravecore)
 
 ## Human mental processes in artificial intelligence
 
-**Bravecore** is an *innovative software platform* designed to integrate emotional intelligence into artificial intelligence systems. Through a robust set of libraries and tools, Bravecore provides a *comprehensive solution for analyzing, interpreting, and responding to emotions across various contexts, from text and audio to images and video*. This platform not only enables a deep understanding of human emotions but also facilitates more natural and empathetic interactions with machines.
+**Bravecore** is an _innovative software platform_ designed to integrate emotional intelligence into artificial intelligence systems. Through a robust set of libraries and tools, Bravecore provides a _comprehensive solution for analyzing, interpreting, and responding to emotions across various contexts, from text and audio to images and video_. This platform not only enables a deep understanding of human emotions but also facilitates more natural and empathetic interactions with machines.
 
-## Key Features:
+> ⚠️ Pre-alpha version.
 
-*   💖 **Multimodal Integration:** Combines analysis of text, audio, and images into a cohesive solution, offering a holistic understanding of emotional states. This integration provides a more accurate and comprehensive view compared to tools that focus on a single data type.
-*   🧠 **Complete Emotion and Consciousness Simulation:** Features advanced simulations of consciousness and self-reflection, mimicking complex internal processes similar to human thought. This unique capability allows AI systems to go beyond simple responses and engage in introspective processes.
-*   📝 **Emotional Content Generation:** Generates contextually appropriate and emotionally adapted responses and content. This feature enhances practical applications such as customer service, marketing, and education by providing emotionally relevant interactions.
+## Key Features
 
-## Features:
+* 💖 **Multimodal Integration:** Combines analysis of text, audio, and images into a cohesive solution, offering a holistic understanding of emotional states. This integration provides a more accurate and comprehensive view compared to tools that focus on a single data type.
+* 🧠 **Complete Emotion and Consciousness Simulation:** Features advanced simulations of consciousness and self-reflection, mimicking complex internal processes similar to human thought. This unique capability allows AI systems to go beyond simple responses and engage in introspective processes.
+* 📝 **Emotional Content Generation:** Generates contextually appropriate and emotionally adapted responses and content. This feature enhances practical applications such as customer service, marketing, and education by providing emotionally relevant interactions.
 
-*   💖 **Emotions Management:** Tracks and manages a wide range of human emotions.
-*   🗣️ **Advanced NLP:** Analyzes sentiment and detects irony in text.
-*   🎧 **Multimodal Analysis:** Evaluates emotions through audio, images, and video.
-*   🧩 **Complex Emotional Models:** Utilizes Circumplex and Plutchik models for nuanced emotion assessment.
-*   🧠 **Cognitive Aspects:** Simulates theory of mind and emotional memory.
-*   🌐 **Multilingual Support:** Offers language detection and emotion translation.
-*   🔍 **Bias Adjustment:** Detects and adjusts for bias in AI models.
-*   📝 **Emotional Content Generation:** Creates contextually appropriate emotional responses.
-*   📊 **Explainability Engine:** Provides detailed decision logs and transparency.
-*   🤖 **Consciousness Simulation:** Simulates self-reflection and inner dialogue.
-*   🌟 **Subjective Experience Simulation:** Captures and simulates personal experiences and beliefs.
+## Features
 
-Bravecore is designed to improve human-machine interaction by enabling *AI systems to understand and respond more empathetically and accurately to human emotions*. Its applications range from virtual assistants and customer support to well-being analytics and personalized content generation. In addition, its focus on explainability and fairness contributes to a more responsible and transparent development of artificial intelligence.
+* 💖 **Emotions Management:** Tracks and manages a wide range of human emotions.
+* 🗣️ **Advanced NLP:** Analyzes sentiment and detects irony in text.
+* 🎧 **Multimodal Analysis:** Evaluates emotions through audio, images, and video.
+* 🧩 **Complex Emotional Models:** Utilizes Circumplex and Plutchik models for nuanced emotion assessment.
+* 🧠 **Cognitive Aspects:** Simulates theory of mind and emotional memory.
+* 🌐 **Multilingual Support:** Offers language detection and emotion translation.
+* 🔍 **Bias Adjustment:** Detects and adjusts for bias in AI models.
+* 📝 **Emotional Content Generation:** Creates contextually appropriate emotional responses.
+* 📊 **Explainability Engine:** Provides detailed decision logs and transparency.
+* 🤖 **Consciousness Simulation:** Simulates self-reflection and inner dialogue.
+* 🌟 **Subjective Experience Simulation:** Captures and simulates personal experiences and beliefs.
 
-With Bravecore, *emotional intelligence* becomes an integral part of the technology, offering advanced and personalized solutions for a wide range of needs and contexts.
+Bravecore is designed to improve human-machine interaction by enabling _AI systems to understand and respond more empathetically and accurately to human emotions_. Its applications range from virtual assistants and customer support to well-being analytics and personalized content generation. In addition, its focus on explainability and fairness contributes to a more responsible and transparent development of artificial intelligence.
+
+With Bravecore, _emotional intelligence_ becomes an integral part of the technology, offering advanced and personalized solutions for a wide range of needs and contexts.
 
 ## Prerequisites
 
-- installation of `ollama`
-- installation of `brainvat`
+* installation of `ollama`
+* installation of `bravecore`
 
-*Once you have installed Ollama and Bravecore, you can run a test by running [Brainvat](https://github.com/pigeonposse/brainvat)
-, which is powered by Bravecore features that add additional functionality and power to brainvat.*
+*Once you have installed Ollama and Bravecore, you can run a test by running [bravecore](https://github.com/pigeonposse/bravecore)
+, which is powered by Bravecore features that add additional functionality and power to bravecore.*
 
 ## Installation
 
