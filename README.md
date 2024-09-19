@@ -11,8 +11,7 @@
 [![License](https://img.shields.io/github/license/pigeonposse/personality?color=blue&label=License&style=flat-square)](https://npmjs.com/package/brainvat)
 [![Version](https://img.shields.io/npm/v/brainvat?color=a1b858&label&style=flat-square)](https://npmjs.com/package/brainvat)
 
-
-# Bravecore by PIGEONPOSSE
+## Human mental processes in artificial intelligence
 
 **Bravecore** is an *innovative software platform* designed to integrate emotional intelligence into artificial intelligence systems. Through a robust set of libraries and tools, Bravecore provides a *comprehensive solution for analyzing, interpreting, and responding to emotions across various contexts, from text and audio to images and video*. This platform not only enables a deep understanding of human emotions but also facilitates more natural and empathetic interactions with machines.
 
