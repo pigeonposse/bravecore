@@ -1,4 +1,4 @@
-# Brainvat by _PIGEONPOSSE_
+# Bravecore by _PIGEONPOSSE_
 
 [![HEADER](docs/banner.png)](https://npmjs.com/package/brainvat)
 
@@ -11,11 +11,6 @@
 [![License](https://img.shields.io/github/license/pigeonposse/personality?color=blue&label=License&style=flat-square)](https://npmjs.com/package/brainvat)
 [![Version](https://img.shields.io/npm/v/brainvat?color=a1b858&label&style=flat-square)](https://npmjs.com/package/brainvat)
 
-
-
-
-
-  **Bravecore** by PIGEONPOSSE body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; padding: 0; } h1 { color: #333; } h2 { color: #555; } .feature-list { list-style-type: none; padding: 0; } .feature-list li { margin-bottom: 10px; } .emoji { font-size: 1.2em; margin-right: 5px; }
 
 # Bravecore by PIGEONPOSSE
 
