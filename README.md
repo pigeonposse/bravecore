@@ -46,8 +46,8 @@ With Bravecore, _emotional intelligence_ becomes an integral part of the technol
 * installation of `ollama`
 * installation of `bravecore`
 
-*Once you have installed Ollama and Bravecore, you can run a test by running [bravecore](https://github.com/pigeonposse/bravecore)
-, which is powered by Bravecore features that add additional functionality and power to bravecore.*
+*Once you have installed Ollama and Bravecore, you can run a test by running [brainvat](https://github.com/pigeonposse/brainvat)
+, which is powered by Bravecore features that add additional functionality and power to brainvat.*
 
 ## Installation
 
