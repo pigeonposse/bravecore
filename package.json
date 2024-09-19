@@ -3,6 +3,9 @@
 	"version": "0.1.0",
 	"description": "Bravecore is an innovative library that integrates complete emotion and consciousness simulation into AI, providing multidimensional analysis and emotionally adaptive content generation. It enables deep and empathetic understanding, enhancing interactions across various contexts.",
 	"main": "src/main.js",
+	"files": [
+		"src/main.js"
+	],
 	"scripts": {
 		"update-version": "changeset && changeset version",
 		"push": "git add . && cz && git push -f origin $@",
@@ -24,7 +27,7 @@
 	"homepage": "https://github.com/pigeonposse/bravecore",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/pigeonposse/bravecore"
+		"url": "git+https://github.com/pigeonposse/bravecore.git"
 	},
 	"funding": {
 		"type": "individual",

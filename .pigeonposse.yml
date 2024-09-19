@@ -4,8 +4,8 @@
 
 web:
   
-  - id: "smartplant"
-    name: "Smartplant"
+  - id: "bravecore"
+    name: "BraveCore"
     type: "library"
     subtypes:
       - Bin
