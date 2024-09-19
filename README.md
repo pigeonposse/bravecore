@@ -39,6 +39,14 @@ Bravecore is designed to improve human-machine interaction by enabling *AI syste
 
 With Bravecore, *emotional intelligence* becomes an integral part of the technology, offering advanced and personalized solutions for a wide range of needs and contexts.
 
+## Prerequisites
+
+- installation of `ollama`
+- installation of `brainvat`
+
+*Once you have installed Ollama and Bravecore, you can run a test by running [Brainvat](https://github.com/pigeonposse/brainvat)
+, which is powered by Bravecore features that add additional functionality and power to brainvat.*
+
 ## Installation
 
 To install the library, use npm or yarn:
